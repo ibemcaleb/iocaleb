@@ -1,0 +1,34 @@
+ /* Some custom styles to beautify this example */
+ .bs-example {
+    margin-right: 20px;
+}
+.navbar-gold {
+    background-color: goldenrod;
+    
+}
+.white-txt {
+    color:white;
+    font-weight: normal;
+}
+.menu-dark {
+    background-color: darkgoldenrod;
+    
+}
+.btn-gold {
+    background-color: darkgoldenrod;
+    color: white;
+}
+.home-style {
+    background-color: white;
+    color: black;
+    border: 1px solid darkgoldenrod;
+}
+.contact-gold {
+    background-color: darkgoldenrod;
+    color: white;
+    padding: 10px;
+    font-size: large;
+}
+.phone {
+    font-weight: bold;
+}
