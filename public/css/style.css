@@ -3,7 +3,7 @@
     margin-right: 20px;
 }
 .navbar-gold {
-    background-color: goldenrod;
+    background-color: black;
     
 }
 .white-txt {
@@ -11,23 +11,24 @@
     font-weight: normal;
 }
 .menu-dark {
-    background-color: darkgoldenrod;
+    background-color: black;
     
 }
 .btn-gold {
-    background-color: darkgoldenrod;
+    background-color: gray;
     color: white;
+    font-weight: bold;
 }
 .home-style {
     background-color: white;
     color: black;
-    border: 1px solid darkgoldenrod;
+    border: 1px solid black;
 }
 .contact-gold {
-    background-color: darkgoldenrod;
-    color: white;
-    padding: 10px;
-    font-size: large;
+    background-color: white;
+    color: black;
+    padding-bottom: 20px;
+    font-weight: bold;
 }
 .phone {
     font-weight: bold;
